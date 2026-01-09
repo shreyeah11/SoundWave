@@ -31,7 +31,8 @@ This project focuses on **backend logic, authentication, and database-driven con
 
 ## 📸 Screenshot
 
-[![SoundWave Homepage](assets/screenshot.png)](assets/screenshot.png)  
+[![SoundWave Homepage](screenshot10.png)](screenshot10.png) 
+[![](screenshot8.png)](screenshot8.png)  
 *Click the screenshot to view full size.*
 
 ---
